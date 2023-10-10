@@ -60,3 +60,9 @@
 ![SCRUM](https://img.shields.io/badge/SCRUM-★★★-green?style=for-the-badge)
 ![CMS](https://img.shields.io/badge/CMS-★★★-yellow?style=for-the-badge)
 
+
+
+
+
+![K-BEL's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-BEL&theme=blue-green&show_icons=true)
+
