@@ -12,7 +12,7 @@
 #### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-yellow?logo=java&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-★★★-blue?logo=python&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★-yellow?logo=javascript&style=for-the-badge)
 
 #### Frameworks
