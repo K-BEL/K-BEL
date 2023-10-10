@@ -1,5 +1,4 @@
 # Hello, I'm Khalid Belhadj 👋
-![Profil Visit](https://komarev.com/ghpvc/?username=K-BEL&color=dc143c)
 
 
 
