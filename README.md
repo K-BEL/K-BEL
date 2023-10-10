@@ -1,10 +1,11 @@
 # Hello, I'm Khalid Belhadj 👋
+![](https://komarev.com/ghpvc/?username=K-BEL&color=dc143c)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-K--Belhadj-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/K-Belhadj)
 
 🌍 Rabat, Morocco
-![](https://komarev.com/ghpvc/?username=K-BEL&color=dc143c)
 
 ### 🔧 Tools and Technologies
 
