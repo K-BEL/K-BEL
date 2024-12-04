@@ -12,11 +12,9 @@
 
 ![Java](https://img.shields.io/badge/Java-yellow?logo=java&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge)
 
 #### Frameworks
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=spring&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-blue?logo=react&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-green?logo=django&style=for-the-badge)
@@ -35,7 +33,6 @@
 
 #### DevOps/Cloud Tools
 
-![Maven](https://img.shields.io/badge/Maven-yellow?logo=apache-maven&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-red?logo=git&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins&style=for-the-badge)
