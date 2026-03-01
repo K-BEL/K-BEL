@@ -70,9 +70,7 @@ My focus areas include:
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-BEL&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K-BEL)
 
 ---
 
