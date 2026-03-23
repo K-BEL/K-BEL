@@ -1,86 +1,56 @@
-# Khalid Belhadj
+# Hi, I'm Khalid Belhadj 🚀
+### Software Architect | Data Scientist | AI Engineer
 
-📍 Rabat, Morocco  
-🔬 Data Scientist | AI Engineer | Software Developer  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid--Belhadj-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/K-Belhadj)
-
----
-
-## 👋 About Me
-
-I am a Data Scientist with a solid background in software engineering and full-stack development.  
-I design and build data-driven systems — from machine learning models and ETL pipelines to scalable backend services and cloud deployments.
-
-My focus areas include:
-
-- Machine Learning & Deep Learning  
-- Natural Language Processing (NLP)  
-- Data Engineering & Analytics  
-- Backend & API Development  
-- Microservices Architecture  
-- Cloud & Containerized Infrastructure  
+📍 Based in Rabat, Morocco  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/K-Belhadj)
 
 ---
 
-## 🧠 Technical Stack
+## 👨‍💻 About Me
+I am a **Software Architect** and **Data Scientist** dedicated to bridging the gap between complex machine learning research and production-ready enterprise applications. With a background in full-stack development and civil service architecture, I specialize in building scalable, data-driven ecosystems.
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-yellow?logo=java&style=for-the-badge)
-
-### Frameworks & Backend
-![Django](https://img.shields.io/badge/Django-green?logo=django&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&style=for-the-badge)
-![React](https://img.shields.io/badge/React-blue?logo=react&style=for-the-badge)
-
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-orange?logo=pytorch&style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-yellow?style=for-the-badge)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&style=for-the-badge)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-red?logo=git&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins&style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&style=for-the-badge)
-
-### Data / BI / ETL
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=power-bi&style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau&style=for-the-badge)
-![Talend](https://img.shields.io/badge/Talend-blue?style=for-the-badge)
-![SSIS](https://img.shields.io/badge/SSIS-yellow?style=for-the-badge)
+- 🏗️ **Architecting** microservices and containerized cloud infrastructures.
+- 🤖 **Developing** end-to-end AI lifecycles (from ETL to Model Deployment).
+- 📊 **Transforming** raw data into actionable insights through BI and MLOps.
+- 💡 **Current Focus:** Local LLM optimization and production-grade MLOps pipelines.
 
 ---
 
-## 🏗 Engineering Practices
+## 🛠️ Technical Ecosystem
 
-- Object-Oriented Programming (OOP)
-- Design Patterns
-- UML Modeling
-- Microservices
-- Agile / SCRUM
+### 🧠 Artificial Intelligence & Data
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **ML/DL** | TensorFlow, PyTorch, Scikit-Learn, Keras |
+| **NLP** | HuggingFace, LangChain, SpaCy |
+| **Data/ETL** | Talend, SSIS, SQL, PowerBI, Tableau |
+
+### 💻 Software Engineering
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **Languages** | Python (Expert), Java (Spring Boot), JavaScript |
+| **Backend** | Django, Node.js, FastAPI |
+| **Frontend** | React, Tailwind CSS |
+| **Databases** | MySQL, Oracle, MongoDB, PostgreSQL |
+
+### ⚙️ DevOps & Architecture
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K-BEL)
-
----
-
-## 🎯 Current Interests
-
-- Building production-ready AI systems  
-- MLOps & model deployment  
-- Local LLM experimentation  
-- Scalable SaaS architectures  
+## 📈 My GitHub Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K-BEL&theme=2109" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K-BEL&theme=2109" alt="Languages" />
+</p>
 
 ---
 
-> Always building. Always improving.
+## 📫 Let's Connect
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/K-Belhadj)
+
+*"Design is not just what it looks like and feels like. Design is how it works."*
